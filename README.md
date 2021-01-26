@@ -1,19 +1,19 @@
-# ElectricBikeBooking
+## ElectricBikeBooking
 
 ElectricBikeBooking is a C# program function that accepts an array of bookings and returns a
 boolean.
 
-# Installation
+## Installation
 This fuction i created and run on visual studio 2019
 
-# Usage
+## Usage
 The function is used in Electric bike booking service where our E-bike clients
 can book a bike for a period of time
 
-# Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-# About
+## About
 Fuction Program
 
 Topics
