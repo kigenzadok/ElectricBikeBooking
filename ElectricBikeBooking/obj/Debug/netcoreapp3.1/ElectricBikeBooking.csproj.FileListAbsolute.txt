@@ -1,0 +1,13 @@
+C:\Users\v-zakige\source\repos\ElectricBikeBooking\ElectricBikeBooking\bin\Debug\netcoreapp3.1\ElectricBikeBooking.exe
+C:\Users\v-zakige\source\repos\ElectricBikeBooking\ElectricBikeBooking\bin\Debug\netcoreapp3.1\ElectricBikeBooking.deps.json
+C:\Users\v-zakige\source\repos\ElectricBikeBooking\ElectricBikeBooking\bin\Debug\netcoreapp3.1\ElectricBikeBooking.runtimeconfig.json
+C:\Users\v-zakige\source\repos\ElectricBikeBooking\ElectricBikeBooking\bin\Debug\netcoreapp3.1\ElectricBikeBooking.runtimeconfig.dev.json
+C:\Users\v-zakige\source\repos\ElectricBikeBooking\ElectricBikeBooking\bin\Debug\netcoreapp3.1\ElectricBikeBooking.dll
+C:\Users\v-zakige\source\repos\ElectricBikeBooking\ElectricBikeBooking\bin\Debug\netcoreapp3.1\ElectricBikeBooking.pdb
+C:\Users\v-zakige\source\repos\ElectricBikeBooking\ElectricBikeBooking\obj\Debug\netcoreapp3.1\ElectricBikeBooking.csprojAssemblyReference.cache
+C:\Users\v-zakige\source\repos\ElectricBikeBooking\ElectricBikeBooking\obj\Debug\netcoreapp3.1\ElectricBikeBooking.AssemblyInfoInputs.cache
+C:\Users\v-zakige\source\repos\ElectricBikeBooking\ElectricBikeBooking\obj\Debug\netcoreapp3.1\ElectricBikeBooking.AssemblyInfo.cs
+C:\Users\v-zakige\source\repos\ElectricBikeBooking\ElectricBikeBooking\obj\Debug\netcoreapp3.1\ElectricBikeBooking.csproj.CoreCompileInputs.cache
+C:\Users\v-zakige\source\repos\ElectricBikeBooking\ElectricBikeBooking\obj\Debug\netcoreapp3.1\ElectricBikeBooking.dll
+C:\Users\v-zakige\source\repos\ElectricBikeBooking\ElectricBikeBooking\obj\Debug\netcoreapp3.1\ElectricBikeBooking.pdb
+C:\Users\v-zakige\source\repos\ElectricBikeBooking\ElectricBikeBooking\obj\Debug\netcoreapp3.1\ElectricBikeBooking.genruntimeconfig.cache
